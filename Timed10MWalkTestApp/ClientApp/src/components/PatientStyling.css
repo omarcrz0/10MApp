@@ -1,0 +1,72 @@
+﻿
+
+
+
+.patient-alert {
+    /*background-color: #d6d8d9 !important;*/
+    /*color: #383d41;*/
+    /*border-color: #c6c8ca;*/
+    /*background-image: none;*/
+    width:375px;
+    overflow:hidden;
+    padding:7px;
+    margin:0;
+    
+    /*border-radius:0;*/
+    /*margin:0 auto;*/
+    cursor:pointer;
+}
+
+.patient-alert:hover {
+    background-color: #c6c8c9 !important;
+}
+
+.patient-name{
+    margin:0 auto;
+    width:450px;
+    margin-bottom:2px;
+}
+
+td, th {
+    /*border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;*/
+
+    max-width:500px;   
+}
+
+.new-patient-form{
+    border:1px solid #ddd;
+    background-color: #eee;
+    padding:15px;
+    width:400px;
+    margin: 0 auto;
+}
+
+.new-patient-form {
+    border: 1px solid #ddd;
+    background-color: #eee;
+    padding: 15px;
+    width: 400px;
+    margin: 0 auto;
+    text-align:center;
+}
+
+.search-patient{
+    text-align:center;
+    width:400px;
+    margin:0 auto;
+}
+
+.edit-patient-form {
+    border: 1px solid #ddd;
+    background-color: #eee;
+    padding: 15px;
+    margin: 0 auto;
+    width: 575px;
+}
+
+.edit-search-patient {
+    width: 400px;
+    margin: 0 auto;
+}
